@@ -30,10 +30,10 @@ API_URL = "/api2/v2"
 APP_TOKEN = "33d57ade8c02dbc5a333db99ff9ae26a"
 
 # user info from /users/customer
-USER_INFO = {}
+USER_INFO = {ryukenden}
 
 # target profile
-PROFILE = "ryukenden"
+PROFILE = ""
 # profile data from /users/<profile>
 PROFILE_INFO = {}
 PROFILE_ID = ""

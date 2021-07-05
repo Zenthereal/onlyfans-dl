@@ -33,7 +33,7 @@ APP_TOKEN = "33d57ade8c02dbc5a333db99ff9ae26a"
 USER_INFO = {}
 
 # target profile
-PROFILE = ""
+PROFILE = "ryukenden"
 # profile data from /users/<profile>
 PROFILE_INFO = {}
 PROFILE_ID = ""
